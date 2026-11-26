@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cloud-links-dpb-91-s1.onrender.com/sitemap.xml
+Sitemap: https://cloud-links-dpb-91-s1.onrender.com/dental-seo-services/sitemap.xml
